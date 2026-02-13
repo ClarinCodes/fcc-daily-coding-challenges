@@ -16,3 +16,15 @@ def get_fastest_speed(times):
             fastest = speed
             x = j
     return  f"The luger's fastest speed was {fastest:.2f} m/s on segment {x}."
+
+
+#M-2 | 14-02-2026
+
+def get_fastest_speed(times):
+    #given distance
+    segments = [320, 280, 350,300,250] 
+    speeds = [segments[i]/times[i] for i in range(len(times))]
+    fastest_in_segment = max(speeds)
+    fastest = speeds.index(fastest_in_segment)+1
+
+    return  f"The luger's fastest speed was {fastest_in_segment:.2f} m/s on segment {fastest}."
