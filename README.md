@@ -9,8 +9,8 @@ This repository tracks my progress through daily challenges. Each solution inclu
 **Goal:** Complete 365 challenges in 2026!
 
 ## Tech Stack
-- [Python](www,github.com/ClarinAntto/fcc-daily-challenges/Python)
--  [JavaScript](www.github.com/ClarinAntto/fcc-daily-challenges/javascript)
+- [Python](https://github.com/ClarinAntto/fcc-daily-challenges/tree/main/Python)
+-  [JavaScript](https://github.com/ClarinAntto/fcc-daily-challenges/tree/main/javascript)
 
 ## Run Locally
 1. Clone the repo:
