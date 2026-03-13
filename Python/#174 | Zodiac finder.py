@@ -1,5 +1,10 @@
 #31-01-2026 | 31-01-2026
 
+''' Given: Date as a string.
+    Problem: seperatethe str into date and month (these only needed).
+    Return: their zodiac names.
+'''
+
 def get_sign(date_str):
     
     parts = date_str.split('-')
