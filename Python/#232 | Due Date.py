@@ -27,3 +27,14 @@ def get_due_date(date_str):
     
     # Return formatted string
     return f"{new_year:04d}-{new_month:02d}-{new_day:02d}"
+
+def test_cases():
+    print(get_due_date("2025-03-30"))  # 2025-12-30
+    print(get_due_date("2025-04-27"))  # 2026-01-27
+    print(get_due_date("2025-05-29"))  # 2026-02-28
+    print(get_due_date("2026-06-30"))  # 2027-03-30
+    print(get_due_date("2026-10-11"))  # 2027-07-11
+
+
+if __name__ == "__main__":
+    test_cases()
