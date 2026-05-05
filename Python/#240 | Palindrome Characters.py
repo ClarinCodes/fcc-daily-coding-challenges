@@ -1,5 +1,12 @@
 #07-04-2026 | 07-04-2026
 
+'''
+    Args: s(string) - input string.
+
+    Problem: determine if it is a palindrome and extract its middle character(s) based on length parity.
+
+    Return: the middle character (odd length), middle two characters (even length), or "none" if not a palindrome.
+'''
 
 def palindrome_locator(s):
 
