@@ -1,19 +1,16 @@
-# FCC Daily Challenges [![stars](https://img.shields.io/github/stars/ClarinAntto/fcc-daily-challenges)](https://github.com/ClarinAntto/fcc-daily-challenges) [![last-commit](https://img.shields.io/github/last-commit/ClarinAntto/fcc-daily-challenges)](https://github.com/ClarinAntto/fcc-daily-challenges)
+# FCC Daily Challenges [![stars](https://img.shields.io/github/stars/ClarinCodes/fcc-daily-coding-challenges)](https://github.com/ClarinCodes/fcc-daily-coding-challenges) [![last-commit](https://img.shields.io/github/last-commit/ClarinCodes/fcc-daily-daily-challenges)](https://github.com/ClarinCodes/fcc-daily-coding-challenges)
 
 My solutions to freeCodeCamp's daily coding challenges. Building skills one challenge at a time!
 
 
 ## About
-This repository tracks my progress through daily challenges. Each solution includes clean. Perfect for learning and problem-solving as a begginer.
-
-**Goal:** Complete 365 challenges in 2026!
+This repository documents my journey through daily coding challenges. Each solution is written with a focus on clarity, simplicity, and clean code practices. It serves as a personal learning log and a way to track consistent improvement over time.
 
 ## Tech Stack
-- [Python](https://github.com/ClarinAntto/fcc-daily-challenges/tree/main/Python)
--  [JavaScript](https://github.com/ClarinAntto/fcc-daily-challenges/tree/main/javascript)
+- [Python](https://github.com/ClarinCodes/fcc-daily-coding-challenges/tree/main/Python)
 
 ## Run Locally
 1. Clone the repo:
    ```bash
-   git clone https://github.com/ClarinAntto/fcc-daily-challenges.git
-   cd fcc-daily-challenges
+   git clone https://github.com/ClarinCodes/fcc-daily-coding-challenges.git
+   cd fcc-daily-coding-challenges
