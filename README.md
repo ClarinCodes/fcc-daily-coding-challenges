@@ -1,4 +1,4 @@
-# FCC Daily Challenges [![stars](https://img.shields.io/github/stars/ClarinCodes/fcc-daily-coding-challenges)](https://github.com/ClarinCodes/fcc-daily-coding-challenges) [![last-commit](https://img.shields.io/github/last-commit/ClarinCodes/fcc-daily-daily-challenges)](https://github.com/ClarinCodes/fcc-daily-coding-challenges)
+# FCC Daily Challenges [![stars](https://img.shields.io/github/stars/ClarinCodes/fcc-daily-coding-challenges)](https://github.com/ClarinCodes/fcc-daily-coding-challenges) [![last-commit](https://img.shields.io/github/last-commit/ClarinCodes/fcc-daily-coding-challenges)](https://github.com/ClarinCodes/fcc-daily-coding-challenges)
 
 My solutions to freeCodeCamp's daily coding challenges. Building skills one challenge at a time!
 
